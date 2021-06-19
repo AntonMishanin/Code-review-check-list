@@ -1,4 +1,4 @@
-# Code-review-check-list
+# Code-review-checklist
 
 1. Check android lint(Analyze -> Inspect Code): https://developer.android.com/studio/write/lint.
 2. Check memory leak(Profiler. Tutorial: https://www.youtube.com/watch?v=58HNvOGx16Q).
